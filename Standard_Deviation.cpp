@@ -4,7 +4,6 @@
 #include <cmath>
 #include <vector>
 #include <string>
-#include <algorithm>
 
 std::vector<std::string> DATA;
 std::vector<double> DATA_COPY;
