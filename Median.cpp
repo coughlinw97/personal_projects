@@ -1,4 +1,4 @@
-// Program will take in data then calculate the mode
+// Program will take in data then calculate the median
 
 #include <iostream>
 #include <vector>
